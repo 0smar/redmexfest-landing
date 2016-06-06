@@ -334,7 +334,7 @@ body{
 }
 
 .sponsors span{
-	width: 80%;
+	width: 50%;
 	margin: 2em 0;
 }
 
@@ -486,6 +486,7 @@ footer img{
 	   -moz-box-pack:center;
 	    -ms-flex-pack:center;
 	        justify-content:center;
+	        width: 100%
 	}
 }
 
